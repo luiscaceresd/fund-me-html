@@ -33,7 +33,7 @@ export const abi = [
   },
   {
     inputs: [],
-    name: "fund",
+    name: "fund", 
     outputs: [],
     stateMutability: "payable",
     type: "function",
